@@ -1,0 +1,45 @@
+{
+  "Description": "Free and reliable multipurpose bot jam-packed with functionality!",
+  "Summary": "Multiple Languages | Functions | Economy System | Music Player | Minigames | Moderation Commands",
+  "Message": "",
+  "Domain": "https://peeky.glitch.me",
+
+  "DefaultPrefix": "p!",
+  "MaxServers": 250,
+  "MaxBots": 25,
+
+  "event": {
+    "name": "PEEKY's 2nd Birthday",
+    "status": false,
+    "badge": "Celebrator",
+    "background": 508,
+    "chests": 10,
+    "gredit": 0,
+    "exp": 10000
+  },
+
+  "CustomBackgroundPrice": 1000,
+  "SellMultiplier": 5,
+  "ExpNeeded": 125,
+  "MinReviewLength": 100,
+
+  "DefaultFont": "Roboto",
+  "Dark": "#36393E",
+  "LessDark": "#3f3f3f",
+  "Light": "#424549",
+  "Blurple": "#7289DA",
+
+  "GiveawayLimit": 10,
+  "QueueLimit": 100,
+  "PlaylistLimit": 10,
+  "ClassificationWallLimit": 50,
+  "BannedWordsLimit": 10,
+  "WeekendChannelsLimit": 10,
+  "ImagesOnlyLimit": 10,
+  "GameRolesLimit": 10,
+  "RoleSaverLimit": 10,
+  "ReactionRolesLimit": 10,
+  "InventoryLimit": 25,
+  "RedditLimit": 25,
+  "LeaderboardLimit": 100
+}
